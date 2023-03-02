@@ -29,7 +29,7 @@ Mᴀᴅᴇ Wɪᴛʜ ❤ Bʏ
 @jayu2980
 
 ''')
-    START_PHOTO = os.getenv("START_PHOTO", "https://telegra.ph/file/99e311290ec06486bcc8f.jpg")
+    START_PHOTO = os.getenv("START_PHOTO", "")
     HOME_TEXT = os.getenv("HOME_TEXT", '''ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕
 
 ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴛʜᴇʀᴇ ʏᴏᴜʀ ʟɪɴᴋꜱ,
